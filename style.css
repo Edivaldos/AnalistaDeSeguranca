@@ -21,14 +21,14 @@ header {
 
 header h1 {
     margin-bottom: 0;
-    color: #000000;
+    color: #00008B;
 }
 
 header h2 {
     font-size: 1.2em;
     font-weight: normal;
     margin-top: 5px;
-    color: #FFFF00;
+    color: #000000;
 }
 
 section {
