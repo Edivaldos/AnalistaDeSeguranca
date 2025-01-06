@@ -13,10 +13,13 @@ body {
 }
 
 header {
-    background-color: #007bff;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
+    background-image: url(https://unsplash.it/300/200);
+	background-size: cover;
+    background-position: center;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	
 }
 
 header h1 {
