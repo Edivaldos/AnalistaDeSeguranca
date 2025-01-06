@@ -22,7 +22,6 @@ header {
 header h1 {
     margin-bottom: 0;
     color: #00008B;
-	padding-left: 0px;
 }
 
 header h2 {
@@ -30,7 +29,6 @@ header h2 {
     font-weight: normal;
     margin-top: 5px;
     color: #000000;
-	padding-left: 0px;
 }
 
 section {
