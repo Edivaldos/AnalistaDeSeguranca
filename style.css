@@ -52,7 +52,8 @@ ul {
 }
 
 hr {
-    color: #1E90FF;
+    border: 0;
+	border-top: 1px solid #1E90FF;
 }
 
 #contato ul {
