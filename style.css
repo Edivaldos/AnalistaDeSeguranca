@@ -20,6 +20,9 @@ header {
 	flex-direction: column;
 	position: relative;
 	
+    padding: 20px 0;
+    text-align: center;
+	
 }
 
 header h1 {
