@@ -2,7 +2,7 @@
 
 // Exemplo: Adicionar um botão para imprimir o currículo
 const printButton = document.createElement('button');
-printButton.textContent = '<b>\Imprimir Currículo\</b>';
+printButton.textContent = 'Imprimir Currículo';
 printButton.addEventListener('click', () => {
     window.print();
 });
